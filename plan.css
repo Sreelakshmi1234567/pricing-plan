@@ -1,0 +1,26 @@
+.main{
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h1{
+    text-align: center;
+
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+td,th{
+   padding: 6px;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+button{
+    border-color: blue;
+
+}
+h5{
+    color: gray;
+}
